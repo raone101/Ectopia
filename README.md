@@ -1,2 +1,2 @@
 # Ecotopia
-Text-based game in C++
+Text-based game in C++ as part of group coursework.
